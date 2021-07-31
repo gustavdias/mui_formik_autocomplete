@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+form {
+  display: flex;
+  flex-direction: column;
+  width: 20rem;
+  margin: 5rem auto;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
